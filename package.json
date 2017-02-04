@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Moniarchy/LG-hackathon#readme",
   "dependencies": {
-    "express": "^4.14.1"
+    "express": "^4.14.1",
+    "google-maps-react": "^1.0.19"
   }
 }
